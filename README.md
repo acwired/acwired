@@ -4,7 +4,7 @@
 - 📫 How to reach me : ig @an.06c ttk @refflecticn
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: im a beginner in coding but i learn quite fast when im interested in something
-- i have a site yo test some tags : anapoggers.neocities.org
+- i have a site to test some tags : anapoggers.neocities.org
 
 <!---
 acwired/acwired is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
